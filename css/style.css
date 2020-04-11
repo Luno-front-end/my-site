@@ -1,0 +1,7 @@
+@import 'menu.css';
+
+.box-1 {
+  background: red;
+  border: 5px solid;
+  border-radius: 10px;
+}
