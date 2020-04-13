@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #8de6e957;
+}
+.sidebar-info-sidebar {
+  display: flex;
+}
+.sidebar-left {
+  background: #575757;
+  width: 200px;
+  height: 100%;
+  position: fixed;
+}
+.content {
+  margin-top: 40px;
+  width: 960px;
+  margin: 0 auto;
+  height: auto;
+}
+.sidebar-right {
+  background: #575757;
+  float: left;
+  width: 200px;
+  height: 100%;
+}
